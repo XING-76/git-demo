@@ -8,3 +8,4 @@ Hello Git!
 Hello Git!master test
 Hello Git!hot-fix test
 Another git commit
+After setting ssh key, do some change to check if is working well.
